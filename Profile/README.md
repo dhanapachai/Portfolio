@@ -8,8 +8,8 @@
 
 A modern, responsive portfolio website built with React and Vite showcasing my skills, projects, and experience as a Java Developer.
 
-## 🌟 Live Demo
-[Live Portfolio Link](#) <!-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/f5b6fe36-3c1e-4bd8-8669-da224ebe4531" />
+# Screen Short
+<!-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/f5b6fe36-3c1e-4bd8-8669-da224ebe4531" />
 - Add your live link here -->
 
 
