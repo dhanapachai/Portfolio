@@ -10,7 +10,8 @@ A modern, responsive portfolio website built with React and Vite showcasing my s
 
 # Screen Short
 <!-<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/f5b6fe36-3c1e-4bd8-8669-da224ebe4531" />
-- Add your live link here -->
+
+live link here --> https://pachaiyappan.netlify.app/
 
 
 
@@ -33,6 +34,8 @@ A modern, responsive portfolio website built with React and Vite showcasing my s
 - **Icons**: React Icons
 - **Email Service**: EmailJS
 - **Animations**: CSS Transitions & Custom Typing Effect
+
+live link : https://pachaiyappan.netlify.app/
 
 
 
